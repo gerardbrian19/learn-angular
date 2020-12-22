@@ -1,4 +1,4 @@
-<ng-content> = { this.props.children }
+< ng-content > = { this.props.children }
 
 #10 - Data flow (the net ninja)
 String interpolation: {{ title }}

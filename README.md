@@ -1,6 +1,6 @@
 < ng-content > = { this.props.children }
 
-#10 - Data flow (the net ninja)
+10 - Data flow (the net ninja)
 String interpolation: {{ title }}
 Property binding: <input [required]='expression'>
 Event binding: <button (click)='expression/function>

@@ -44,6 +44,9 @@ https://www.youtube.com/watch?v=Fdf5aTYRW0E&ab_channel=TraversyMedia done \
 https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI&ab_channel=TheNetNinja \
 https://www.youtube.com/watch?v=T9wOu11uU6U&list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi&ab_channel=Academind \
 
+ARC Tutorials: \
+https://www.youtube.com/watch?v=Fg4spR6cdBQ&list=PLp50dWW_m40XTcxIaXVqO60LaIlyHWxDS&ab_channel=ARCTutorials \
+
 File component types: \
 1. Component \
 2. Service \

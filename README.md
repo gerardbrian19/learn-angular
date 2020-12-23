@@ -24,6 +24,10 @@ ngStyle
 
 | (pipe) = how the data will display (filters/uppercases etc.)
 
+.component \
+.service \
+.module (app-routing)
+
 Links:
 https://medium.com/madhash/19-things-you-need-to-learn-to-become-an-effective-angular-developer-c0ccfa51222a \
 https://dev.to/evybauer/i-had-to-learn-angular-8-in-24-hours-here-is-how-go1 \

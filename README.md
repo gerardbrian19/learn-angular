@@ -28,7 +28,7 @@ ngStyle
 .service \
 .module (app-routing)
 
-Links:
+Links: \
 https://medium.com/madhash/19-things-you-need-to-learn-to-become-an-effective-angular-developer-c0ccfa51222a \
 https://dev.to/evybauer/i-had-to-learn-angular-8-in-24-hours-here-is-how-go1 \
 https://www.freecodecamp.org/news/want-to-learn-angular-heres-our-free-33-part-course-by-dan-wahlin-fc2ff27ab451/ \
@@ -43,3 +43,23 @@ https://www.youtube.com/watch?v=2OHbjep_WjQ&ab_channel=freeCodeCamp.org \
 https://www.youtube.com/watch?v=Fdf5aTYRW0E&ab_channel=TraversyMedia done \
 https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI&ab_channel=TheNetNinja \
 https://www.youtube.com/watch?v=T9wOu11uU6U&list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi&ab_channel=Academind \
+
+File component types: \
+1. Component \
+2. Service \
+3. Directive \
+4. Module \
+5. Pipe \
+6. Guard \
+7. Interface \
+8. Class \
+9. Enum \
+10. Route \
+
+Change Environment: \
+environment.fixture.ts \
+apiHost: 'http://nav2-dev.westeurope.cloudapp.azure.com:8082', to  \
+apiHost: 'http://nav1-dev.westeurope.cloudapp.azure.com:8085', \
+ng serve -c fixture
+
+
